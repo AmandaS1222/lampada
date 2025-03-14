@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(#f1c5aa,#ce8357);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#lampada{
+    height: 250px;
+}
+.central{
+    width: 300px;
+    background: white;
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 5px 5px 20px #77452a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    width: 90px;
+    color: rgb(255, 255, 255);
+    background: #ad8871;
+    box-shadow: 4px 3px 10px #5c5c5c;
+    border: none;
+    font-size: 20px;
+    border-radius: 10px;
+}
